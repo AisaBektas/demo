@@ -3,5 +3,23 @@
   "id": 1,
   "firstName":"Aisa",
    "lastName":"Bektas"
- }
+ },
+ "questions": [
+        {
+            "id": 1,
+            "question": "Your perfect pet is",
+            "answers": ["Small", "Big"]
+        },
+        {
+            "id": 2,
+            "question": "Your perfect pet likes to",
+            "answers": ["Eat a lot", "Run a lot"]
+        },
+        {
+            "id": 3,
+            "question": "Your perfect pet hates",
+            "answers": ["How weather", "Cold weather"]
+        }
+    ]
+  
 }
